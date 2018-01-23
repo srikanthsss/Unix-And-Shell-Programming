@@ -1,0 +1,39 @@
+23/01/18
+This is my first Unix Lab.
+I learnt how to use the vim editor in insert and command mode.
+Few commands used  are:
+$vim- to create a new file
+$ mkdir-To create new directory
+cd-to open the directory
+x-used to delete a charecter
+u-undo
+:wq-to save and exit the file
+:ql-to trash all the changes
+0-move to the start of the line.
+?-forward search
+:w- to savw the file
+A-insert text at the end of the line.
+a- inserts text after the cursor.
+v-to enter visual mode.
+y-to copy text in visual mode.
+R- replaces more than one character
+:l-to run shell commands.
+dw-delete the word at the beginning of which the cursor is present.
+2w-moves the cursor 2 words forward
+d2w- deletes 2 words.
+dd- deletes the line.
+p-puts the previously deleted yext after the cursor.
+ce-to change until the end of a word and enter the insert mode.
+G-moves to the bottom of the file.
+gg-moves to the stsrt of the file.
+date-displays the date.
+date +%m- displayed the month in numerical format i.e., 01
+date +%h- displayed the month in words i.e, Jan.
+who- displayed- cs2016b120tty2 2018-01-23 13:39(/dev/tty2)
+bc 9+1 displayed 10
+ls -l - displayed :
+total 8
+-rw-r--r-- 1 cs2016b120 cs2016b120 252 Jan 23 14:35 3d
+-rw-r--r-- 1 cs2016b120 cs2016b120 899 Jan 23 15:04 achal.txt
+
+
