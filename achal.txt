@@ -35,5 +35,7 @@ ls -l - displayed :
 total 8
 -rw-r--r-- 1 cs2016b120 cs2016b120 252 Jan 23 14:35 3d
 -rw-r--r-- 1 cs2016b120 cs2016b120 899 Jan 23 15:04 achal.txt
-
-
+$man ls
+$ls --escape-> 3d achal.txt
+$ ls-f-> ...3d achal.txt.achal.txt.swf
+$ ls -F -> 3d achal.txt.
