@@ -1,4 +1,4 @@
-23/01/18
+23/01/18-Lab session-1
 This is my first Unix Lab.
 I learnt how to use the vim editor in insert and command mode.
 Few commands used  are:
